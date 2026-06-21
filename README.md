@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce projet a pour objectif de concevoir et implémenter une solution basée sur les techniques de **Machine Learning** afin de résoudre un problème spécifique lié à l’analyse de données et à la prise de décision automatisée.
+Ce projet PML3.ipynb a pour objectif de concevoir et implémenter une solution basée sur les techniques de **Machine Learning** afin de résoudre un problème spécifique lié à l’analyse de données et à la prise de décision automatisée.
 
 L’approche adoptée repose sur un pipeline complet comprenant la collecte des données, leur prétraitement, l’exploration, la modélisation ainsi que l’évaluation des performances des modèles utilisés.
 
